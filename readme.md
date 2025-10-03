@@ -87,8 +87,3 @@ driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
 Esto evita que tengas que descargar `chromedriver` manualmente.
 
 ---
-
-## Subir el proyecto a GitHub (pasos rápidos)
-
-1. Crea un nuevo repositorio en GitHub (por ejemplo `mercadolibre-scraper`).
-2. En tu máquina, dentro de la carpeta del proyecto:
