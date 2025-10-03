@@ -17,12 +17,12 @@ mercadolibre-scraper/
 
 **Consejo:** Usa `webdriver-manager` para evitar descargar `chromedriver` manualmente.
 
-## Instalación paso a paso (Windows / Mac / Linux)
+## Instalación paso a paso (Windows)
 
 1. Clona el repositorio (o crea una carpeta y pega los archivos)
 
 ```bash
-git clone https://github.com/tuusuario/mercadolibre-scraper.git
+git clone https://github.com/jonachavez/PruebaMercado/blob/main/from%20selenium%20import%20webdriver2.py
 cd mercadolibre-scraper
 ```
 
